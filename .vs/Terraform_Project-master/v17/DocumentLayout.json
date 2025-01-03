@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\providers.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:providers.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\terraform.lock.hcl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:terraform.lock.hcl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\backend.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\staging\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\staging\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\provider.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\staging\\provider.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\staging\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\staging\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\production\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\production\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\production\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\production\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\modules\\docker_container\\main.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\modules\\docker_container\\outputs.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\modules\\docker_container\\variables.tf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\dev\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:environment\\dev\\terraform.tfvars||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "variables.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\variables.tf",
+              "RelativeDocumentMoniker": "variables.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\variables.tf",
+              "RelativeToolTip": "variables.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:48.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "terraform.lock.hcl",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\terraform.lock.hcl",
+              "RelativeDocumentMoniker": "terraform.lock.hcl",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\terraform.lock.hcl",
+              "RelativeToolTip": "terraform.lock.hcl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "providers.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\providers.tf",
+              "RelativeDocumentMoniker": "providers.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\providers.tf",
+              "RelativeToolTip": "providers.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:43.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "outputs.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\outputs.tf",
+              "RelativeDocumentMoniker": "outputs.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\outputs.tf",
+              "RelativeToolTip": "outputs.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:42.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\main.tf",
+              "RelativeDocumentMoniker": "main.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\main.tf",
+              "RelativeToolTip": "main.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:41.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "backend.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\backend.tf",
+              "RelativeDocumentMoniker": "backend.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\backend.tf",
+              "RelativeToolTip": "backend.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "variables.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\variables.tf",
+              "RelativeDocumentMoniker": "environment\\staging\\variables.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\variables.tf",
+              "RelativeToolTip": "environment\\staging\\variables.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:36.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "terraform.tfvars",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\terraform.tfvars",
+              "RelativeDocumentMoniker": "environment\\staging\\terraform.tfvars",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\terraform.tfvars*",
+              "RelativeToolTip": "environment\\staging\\terraform.tfvars*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:29.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "provider.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\provider.tf",
+              "RelativeDocumentMoniker": "environment\\staging\\provider.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\provider.tf",
+              "RelativeToolTip": "environment\\staging\\provider.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "outputs.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\outputs.tf",
+              "RelativeDocumentMoniker": "environment\\staging\\outputs.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\outputs.tf",
+              "RelativeToolTip": "environment\\staging\\outputs.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\main.tf",
+              "RelativeDocumentMoniker": "environment\\staging\\main.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\staging\\main.tf",
+              "RelativeToolTip": "environment\\staging\\main.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:25.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "variables.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\variables.tf",
+              "RelativeDocumentMoniker": "environment\\production\\variables.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\variables.tf",
+              "RelativeToolTip": "environment\\production\\variables.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:22.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "terraform.tfvars",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\terraform.tfvars",
+              "RelativeDocumentMoniker": "environment\\production\\terraform.tfvars",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\terraform.tfvars*",
+              "RelativeToolTip": "environment\\production\\terraform.tfvars*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:16.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "outputs.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\outputs.tf",
+              "RelativeDocumentMoniker": "environment\\production\\outputs.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\outputs.tf",
+              "RelativeToolTip": "environment\\production\\outputs.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:15.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\main.tf",
+              "RelativeDocumentMoniker": "environment\\production\\main.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\production\\main.tf",
+              "RelativeToolTip": "environment\\production\\main.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:14.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\main.tf",
+              "RelativeDocumentMoniker": "environment\\modules\\docker_container\\main.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\main.tf*",
+              "RelativeToolTip": "environment\\modules\\docker_container\\main.tf*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:08.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "outputs.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\outputs.tf",
+              "RelativeDocumentMoniker": "environment\\modules\\docker_container\\outputs.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\outputs.tf",
+              "RelativeToolTip": "environment\\modules\\docker_container\\outputs.tf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:06.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "variables.tf",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\variables.tf",
+              "RelativeDocumentMoniker": "environment\\modules\\docker_container\\variables.tf",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\modules\\docker_container\\variables.tf*",
+              "RelativeToolTip": "environment\\modules\\docker_container\\variables.tf*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:54:01.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "terraform.tfvars",
+              "DocumentMoniker": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\dev\\terraform.tfvars",
+              "RelativeDocumentMoniker": "environment\\dev\\terraform.tfvars",
+              "ToolTip": "C:\\Users\\yashi\\OneDrive\\Desktop\\Terraform_Project-master\\environment\\dev\\terraform.tfvars",
+              "RelativeToolTip": "environment\\dev\\terraform.tfvars",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T05:53:46.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
