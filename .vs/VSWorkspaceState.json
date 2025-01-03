@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\environment",
-    "\\environment\\dev",
-    "\\environment\\modules",
-    "\\environment\\modules\\docker_container",
-    "\\environment\\production",
-    "\\environment\\staging"
+    ""
   ],
-  "SelectedNode": "\\providers.tf",
+  "SelectedNode": "\\Terraform_Project-master.zip",
   "PreviewInSolutionExplorer": false
 }
