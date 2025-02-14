@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 node_modules/ echo.env
+=======
+.env 
+>>>>>>> c361e33 (Initial commit for terrsform_project)
